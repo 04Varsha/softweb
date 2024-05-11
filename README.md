@@ -236,8 +236,7 @@ home.html
     </footer>
   </body>
 </html>
-~~~
-~~~
+
 product.html
 
 <html>
@@ -470,8 +469,7 @@ product.html
     </footer>
   </body>
 </html>
-~~~
-~~~
+
 people.html
 
 <html>
@@ -664,8 +662,7 @@ people.html
     </footer>
   </body>
 </html>
-~~~
-~~~
+
 contact.html
 
 <html>
